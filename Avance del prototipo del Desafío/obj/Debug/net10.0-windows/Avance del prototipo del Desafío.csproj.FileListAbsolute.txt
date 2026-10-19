@@ -1,0 +1,18 @@
+D:\Avance del prototipo del Desafío\Avance del prototipo del Desafío\bin\Debug\net10.0-windows\Avance del prototipo del Desafío.exe
+D:\Avance del prototipo del Desafío\Avance del prototipo del Desafío\bin\Debug\net10.0-windows\Avance del prototipo del Desafío.deps.json
+D:\Avance del prototipo del Desafío\Avance del prototipo del Desafío\bin\Debug\net10.0-windows\Avance del prototipo del Desafío.runtimeconfig.json
+D:\Avance del prototipo del Desafío\Avance del prototipo del Desafío\bin\Debug\net10.0-windows\Avance del prototipo del Desafío.dll
+D:\Avance del prototipo del Desafío\Avance del prototipo del Desafío\bin\Debug\net10.0-windows\Avance del prototipo del Desafío.pdb
+D:\Avance del prototipo del Desafío\Avance del prototipo del Desafío\obj\Debug\net10.0-windows\Avance_del_prototipo_del_Desafío.Form1.resources
+D:\Avance del prototipo del Desafío\Avance del prototipo del Desafío\obj\Debug\net10.0-windows\Avance del prototipo del Desafío.csproj.GenerateResource.cache
+D:\Avance del prototipo del Desafío\Avance del prototipo del Desafío\obj\Debug\net10.0-windows\Avance del prototipo del Desafío.GeneratedMSBuildEditorConfig.editorconfig
+D:\Avance del prototipo del Desafío\Avance del prototipo del Desafío\obj\Debug\net10.0-windows\Avance del prototipo del Desafío.AssemblyInfoInputs.cache
+D:\Avance del prototipo del Desafío\Avance del prototipo del Desafío\obj\Debug\net10.0-windows\Avance del prototipo del Desafío.AssemblyInfo.cs
+D:\Avance del prototipo del Desafío\Avance del prototipo del Desafío\obj\Debug\net10.0-windows\Avance del prototipo del Desafío.csproj.CoreCompileInputs.cache
+D:\Avance del prototipo del Desafío\Avance del prototipo del Desafío\obj\Debug\net10.0-windows\Avance del prototipo del Desafío.dll
+D:\Avance del prototipo del Desafío\Avance del prototipo del Desafío\obj\Debug\net10.0-windows\refint\Avance del prototipo del Desafío.dll
+D:\Avance del prototipo del Desafío\Avance del prototipo del Desafío\obj\Debug\net10.0-windows\Avance del prototipo del Desafío.pdb
+D:\Avance del prototipo del Desafío\Avance del prototipo del Desafío\obj\Debug\net10.0-windows\Avance del prototipo del Desafío.genruntimeconfig.cache
+D:\Avance del prototipo del Desafío\Avance del prototipo del Desafío\obj\Debug\net10.0-windows\ref\Avance del prototipo del Desafío.dll
+D:\Avance del prototipo del Desafío\Avance del prototipo del Desafío\obj\Debug\net10.0-windows\Avance d.7EBA8861.Up2Date
+D:\Avance del prototipo del Desafío\Avance del prototipo del Desafío\bin\Debug\net10.0-windows\Avance del prototipo del Desafío.runtimeconfig.dev.json
